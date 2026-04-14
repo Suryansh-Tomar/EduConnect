@@ -26,4 +26,5 @@ public class AttendanceController {
     public ResponseEntity<List<Attendance>> getAllAttendanceByCourse(int courseId) {
         return null;
     }
+    //just to check day 7
 }
